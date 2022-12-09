@@ -1,64 +1,64 @@
 .Card {
-	width: 17rem;
-	margin: 10px;
-	box-shadow: 1px 2px 4px rgba(0, 0, 2, 0.2);
-	border-radius: 5px;
-	text-align: center;
-	background-color: #fff;
+  width: 17rem;
+  margin: 10px;
+  box-shadow: 1px 2px 4px rgba(0, 0, 2, 0.2);
+  border-radius: 5px;
+  text-align: center;
+  background-color: #fff;
 }
 
 .cover-image-wrapper {
-	height: 150px;
-	overflow: hidden;
-	border-bottom: 1px solid #dbdbdb;
+  height: 150px;
+  overflow: hidden;
+  border-bottom: 1px solid #dbdbdb;
 }
 
 .cover-image {
-	border-radius: 5px 5px 0 0;
+  border-radius: 5px 5px 0 0;
 }
 
 .cover-image img {
-	background-repeat: no-repeat;
-	background-position: center;
-	background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .profile-photo-wrapper {
-	width: 90px;
-	height: 90px;
-	overflow: hidden;
-	border: 1px dashed #0575e5;
-	box-sizing: border-box;
-	border-radius: 50%;
-	background-color: #fff;
-	transform: translateY(-40px);
-	margin: auto;
+  width: 90px;
+  height: 90px;
+  overflow: hidden;
+  border: 1px dashed #0575e5;
+  box-sizing: border-box;
+  border-radius: 50%;
+  background-color: #fff;
+  transform: translateY(-40px);
+  margin: auto;
 }
 
 .about {
-	margin-bottom: 10px;
-	color: rgba(0, 0, 0, 0.7);
+  margin-bottom: 10px;
+  color: #000000b3;
 }
 
 .name {
-	font-weight: bold;
-	font-size: 1.2rem;
+  font-weight: bold;
+  font-size: 1.2rem;
 }
 
 .description {
-	font-size: 0.8rem;
-	margin-top: 5px;
-	width: 80%;
-	margin: auto;
+  font-size: 0.8rem;
+  margin-top: 5px;
+  width: 80%;
+  margin: auto;
 }
 
 .follow-btn {
-	border: none;
-	border-radius: 2px;
-	outline: none;
-	padding: 5px 30px;
-	background-color: #0575e5;
-	color: #ffd;
-	margin-bottom: 20px;
-	margin-top: 20px;
+  border: none;
+  border-radius: 2px;
+  outline: none;
+  padding: 5px 30px;
+  background-color: #0575e5;
+  color: #ffd;
+  margin-bottom: 20px;
+  margin-top: 20px;
 }
